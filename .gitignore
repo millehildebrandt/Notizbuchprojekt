@@ -1,11 +1,11 @@
-### IntelliJ IDEA ###
+# IntelliJ IDEA
 .idea/
 *.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-### Eclipse ###
+# Eclipse
 .apt_generated
 .classpath
 .factorypath
@@ -17,33 +17,55 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-### NetBeans ###
+# NetBeans
 /nbproject/private/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
 
-### VS Code ###
+# VS Code
 .vscode/
 
-### Mac OS ###
+# Mac OS
 .DS_Store
 
-### Windows ###
+# Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-### Maven ###
+# Maven
 target/
 *.log
 
-### Editor-Backups ###
+# Editor-Backups
 *.bak
 *.swp
 *.swo
 *~
 
-### Sonstiges ###
+# Sonstiges
 logs/
+
+# Java compiled class files
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
