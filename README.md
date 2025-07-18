@@ -1,4 +1,3 @@
-# Notizbuchprojekt
 # 📘 NotizbuchProjekt
 
 Ein vielseitiges Java-Lernprojekt zur Vorbereitung auf die **AP1-Prüfung** in der Umschulung zur Fachinformatiker:in – Fachrichtung Anwendungsentwicklung.  
