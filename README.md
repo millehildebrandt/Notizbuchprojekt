@@ -15,33 +15,8 @@ Dieses Projekt ist mehr als nur ein Notizbuch: Es integriert zahlreiche Themen a
 ---
 
 ## 🗂️ Projektstruktur
-NotizbuchProjekt/
-├── src/main/
-│ ├── app/ → Einstiegspunkt (MainApp.java)
-│ ├── model/ → Datenklassen wie Notiz.java
-│ ├── beans/ → JavaBeans zur Entkopplung von Logik und Daten
-│ ├── patterns/ → Design Patterns wie Singleton, MVC
-│ ├── uml/ → UML-Konzepte in Codeform (Zustand, Aktivität, Sequenz)
-│ ├── projektmgmt/ → SMART, Netzplan, Scrum vs. Wasserfall (als Tools)
-│ ├── wirtschaft/ → Tools für Stromkosten, Leasing, Nutzwertanalyse
-│ ├── io/ → Dateizugriffe (TXT), Streams
-│ ├── json/ → JSON-Einbindung mit Gson
-│ ├── xml/ → XML-Einbindung
-│ ├── db/ → SQLite-Anbindung via JDBC (NotizRepository.java)
-│ ├── netzwerk/ → Netzwerkgrundlagen
-│ ├── threads/ → Multithreading (z. B. automatische Speicherungen)
-│ ├── daemon/ → Hintergrundprozesse
-│ ├── sync/ → Thread-Synchronisation
-│ ├── gui/ → JavaFX-Oberfläche mit Login & Notizeditor
-│ ├── security/ → Passwort-Hashing, Datenschutz
-│ ├── web/ → Webtechnologien und HTTP-Verbindungen
-│ ├── util/ → Hilfsklassen wie Logger
-├── test/ → JUnit-Tests
-├── docs/ → Lernunterlagen, Prüfungsvorbereitung, Praktikums-Doku
-├── pom.xml → Maven-Konfiguration
 
-
----
+![Image](https://github.com/user-attachments/assets/1ae02f33-1cce-4648-be4e-a78762fe6a23)
 
 ## 💡 Wichtige Features
 
